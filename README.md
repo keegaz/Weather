@@ -1,0 +1,2 @@
+# Weather
+Azure Static Webapps
